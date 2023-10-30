@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/at-work-test-task/static/css/main.7251590d.css",
+    "main.js": "/at-work-test-task/static/js/main.aa585dbf.js",
+    "static/media/userPhoto.jpg": "/at-work-test-task/static/media/userPhoto.3453f8aad40d76e35588.jpg",
+    "static/media/menuAvatar.png": "/at-work-test-task/static/media/menuAvatar.8a0b02ce1acaeaf17d77.png",
+    "static/media/iconFirst.svg": "/at-work-test-task/static/media/iconFirst.e3b5df1ba571e9f335809c3904b6cacf.svg",
+    "static/media/notification.svg": "/at-work-test-task/static/media/notification.437126466f198c078f7600fcb7297995.svg",
+    "static/media/iconSecond.svg": "/at-work-test-task/static/media/iconSecond.e446c41e9f3e78a1f104eba2059392df.svg",
+    "static/media/success.svg": "/at-work-test-task/static/media/success.430da31d9cafbb942ed03136fc8d3002.svg",
+    "static/media/settingsSmall.svg": "/at-work-test-task/static/media/settingsSmall.b5ffef92c01b2917c688.svg",
+    "static/media/settingsTapSmall.svg": "/at-work-test-task/static/media/settingsTapSmall.3c18b6f1525cc157e4e2.svg",
+    "static/media/favorite.svg": "/at-work-test-task/static/media/favorite.852f3d53dd666d0ef0e555996bdf67ae.svg",
+    "static/media/clear.svg": "/at-work-test-task/static/media/clear.7bc94af1b727eefcd8ebe28b9c763f31.svg",
+    "static/media/close.svg": "/at-work-test-task/static/media/close.e8ec47b3669e168b6d52eeb610eb6a69.svg",
+    "static/media/settings.svg": "/at-work-test-task/static/media/settings.04b3fe375770c6297a56.svg",
+    "static/media/settingsHover.svg": "/at-work-test-task/static/media/settingsHover.5acb71f842ec4bc16cdb.svg",
+    "static/media/settingsTap.svg": "/at-work-test-task/static/media/settingsTap.44525b540345ee79e9d8.svg",
+    "index.html": "/at-work-test-task/index.html",
+    "static/media/arrow-left-mobile.svg": "/at-work-test-task/static/media/arrow-left-mobile.68ff5a82b216a6ce6088.svg",
+    "static/media/arrow-left.svg": "/at-work-test-task/static/media/arrow-left.2f8b9513233915cd53e3.svg",
+    "main.7251590d.css.map": "/at-work-test-task/static/css/main.7251590d.css.map",
+    "main.aa585dbf.js.map": "/at-work-test-task/static/js/main.aa585dbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7251590d.css",
+    "static/js/main.aa585dbf.js"
+  ]
+}
